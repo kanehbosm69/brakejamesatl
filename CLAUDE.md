@@ -100,6 +100,7 @@ Signs of drift:
 
 ## Skills
 - `.claude/skills/ai-signal-filter.md` — invoke when James evaluates any new AI tool, video, or business idea. Scores against the 90-day mission. Also triggers avoidance check when research replaces building.
+- `.claude/skills/fable-mode/SKILL.md` — invoke on "Fable Mode" / "max rigor", or proactively on complex projects, architecture decisions, and strategy calls. Full decomposition → planning → verification → iteration framework.
 
 ---
 
