@@ -1,5 +1,14 @@
 # BrakeJamesATL — Project Context
 
+## Current Strategic Priority (Standing Override)
+**Indoor herb/plant cultivation** is now deemed by James as important, or more important, than the BrakeJamesATL / LocalPro Labs mission below — driven by concern over broader economic decline and a desire for a resilience/self-sufficiency hedge (food, medicinal herbs, potential product line).
+
+- This is a deliberate, explicit call from James, not drift. Do not flag it against the "Failure Mode to Guard Against" section below — that section's "exploring new business ideas" warning does NOT apply to this priority.
+- Treat cultivation-related requests (setup, species selection, environmental control, scaling, potential business model) with the same weight as BrakeJamesATL/LocalPro Labs work — do not default to redirecting James back to the 90-day mission unless he asks for that framing.
+- BrakeJamesATL and LocalPro Labs remain active and are not cancelled — this priority sits alongside/above them, not as a replacement, until James says otherwise.
+
+---
+
 ## Who James Is
 - Solo founder, Metro Atlanta
 - Day job: 7am–5pm M–F (unavailable during these hours)
@@ -94,7 +103,7 @@ Signs of drift:
 - Researching new tools without a client attached
 - Watching AI videos instead of sending outreach
 - Building features the pipeline doesn't need yet
-- Exploring new business ideas before the first LocalPro Labs client is signed
+- Exploring new business ideas before the first LocalPro Labs client is signed *(exception: indoor herb/plant cultivation — see "Current Strategic Priority" above, an explicit standing override, not drift)*
 
 ---
 
