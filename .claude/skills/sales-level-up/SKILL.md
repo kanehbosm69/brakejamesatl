@@ -23,9 +23,32 @@ to.
 every roleplay — do not invent a different script):**
 1. "What's the one bottleneck that's currently capping your revenue or
    costing you the most time?"
-2. "What format do you want the output in?" (must be locked before building)
-3. "Are you ready to put down a deposit to get started?" (no deposit = no
+2. "What would it look like 90 days from now if that wasn't a problem
+   anymore?" (sharpens the pitch toward a specific outcome, not an abstract
+   fix — added from PMF research; keep it natural, one follow-up question,
+   not a formal survey)
+3. "What format do you want the output in?" (must be locked before building)
+4. "Are you ready to put down a deposit to get started?" (no deposit = no
    engagement — this is the hardest rep and the one he's most likely to avoid)
+
+---
+
+## PMF Research Log
+
+After every real call (not roleplay), log the answers below. One prospect
+is an anecdote. Five saying the same thing is a pattern worth acting on —
+same discipline as the objection bank, applied to what prospects actually
+want instead of what they object to.
+
+```
+| Date | Business / Trade | Bottleneck stated | 90-day outcome stated | Objection raised | Closed? |
+|------|-------------------|--------------------|-----------------------|--------------------|---------|
+|      |                   |                    |                       |                    |         |
+```
+
+Review this log periodically: if the same 90-day outcome keeps showing up
+across different trades, that's the language to lead future pitches with —
+not a guess at what matters to prospects, but what they've actually told you.
 
 **Constraints that shape urgency:** ~8 hrs/week, day job 7am–5pm M–F, hard
 Shabbat cutoff Friday sunset. Reps need to be short and repeatable, not long
