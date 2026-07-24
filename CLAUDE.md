@@ -6,6 +6,7 @@
 - This is a deliberate, explicit call from James, not drift. Do not flag it against the "Failure Mode to Guard Against" section below — that section's "exploring new business ideas" warning does NOT apply to this priority.
 - Treat cultivation-related requests (setup, species selection, environmental control, scaling, potential business model) with the same weight as BrakeJamesATL/LocalPro Labs work — do not default to redirecting James back to the 90-day mission unless he asks for that framing.
 - BrakeJamesATL and LocalPro Labs remain active and are not cancelled — this priority sits alongside/above them, not as a replacement, until James says otherwise.
+- **Project file:** `herbalist.md` — living doc for this build, being built out incrementally as James works on it. Check it for current state before assuming nothing exists yet, and keep it updated as decisions get made (setup, species, equipment, business model direction).
 
 ---
 
