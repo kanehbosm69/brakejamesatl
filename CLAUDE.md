@@ -117,8 +117,9 @@ Signs of drift:
 
 ## Intake Discovery Questions (use on every LocalPro Labs prospect call)
 1. "What's the one bottleneck that's currently capping your revenue or costing you the most time?"
-2. "What would it look like 90 days from now if that wasn't a problem anymore?" *(sharpens the pitch toward a specific outcome — keep it natural, not a formal survey)*
-3. "What format do you want the output in?" *(lock this before building)*
-4. "Are you ready to put down a deposit to get started?" *(no deposit = no engagement)*
+2. Live ROI calc: "About how many calls do you figure you're missing a week, and what's an average job worth to you?" — do the math out loud together using THEIR numbers, not an industry stat.
+3. "What would it look like 90 days from now if that wasn't a problem anymore?" *(sharpens the pitch toward a specific outcome — keep it natural, not a formal survey)*
+4. "What format do you want the output in?" *(lock this before building)*
+5. "Are you ready to put down a deposit to get started?" *(no deposit = no engagement)*
 
 Log every real call's answers in the PMF Research Log inside `sales-level-up/SKILL.md` — patterns across prospects matter more than any single answer.

@@ -23,12 +23,18 @@ to.
 every roleplay — do not invent a different script):**
 1. "What's the one bottleneck that's currently capping your revenue or
    costing you the most time?"
-2. "What would it look like 90 days from now if that wasn't a problem
+2. Live ROI calculation, right after the bottleneck answer: "About how many
+   calls do you figure you're missing in a week, and what's an average job
+   worth to you?" Then do the math out loud together — "so that's roughly
+   $X a week, $Y a year, just from calls you're missing." Use THEIR numbers,
+   not an industry stat — it's more persuasive because they can't discount
+   it as "that's not me, that's just an average." (Added from Perplexity
+   research on selling missed-call automation to local trades.)
+3. "What would it look like 90 days from now if that wasn't a problem
    anymore?" (sharpens the pitch toward a specific outcome, not an abstract
-   fix — added from PMF research; keep it natural, one follow-up question,
-   not a formal survey)
-3. "What format do you want the output in?" (must be locked before building)
-4. "Are you ready to put down a deposit to get started?" (no deposit = no
+   fix — keep it natural, one follow-up question, not a formal survey)
+4. "What format do you want the output in?" (must be locked before building)
+5. "Are you ready to put down a deposit to get started?" (no deposit = no
    engagement — this is the hardest rep and the one he's most likely to avoid)
 
 ---
