@@ -106,6 +106,8 @@ Signs of drift:
 - Building features the pipeline doesn't need yet
 - Exploring new business ideas before the first LocalPro Labs client is signed *(exception: indoor herb/plant cultivation — see "Current Strategic Priority" above, an explicit standing override, not drift)*
 
+**Side consulting boundary:** requests from friends/network for AI help in unrelated niches (e.g., a friend's book-publishing SaaS asking James to "set up his AI OS") are fine to take as one-off paid scoping/consulting work, but stay separate from LocalPro Labs — never treat them as evidence to broaden the locked customer archetype (solo mobile trade operators) or as a reason to run parallel niches. If a side engagement becomes real, ongoing work outside this repo, that's the trigger to consider a global CLAUDE.md — not before.
+
 ---
 
 ## Skills
