@@ -26,9 +26,9 @@ triggers:
 **Day job constraint:** 7am–5pm M–F unavailable. Hard Shabbat cutoff Friday sunset.
 **Available:** ~8 hrs/week, ~$150/month for new tools.
 
-**Active build:** Google Form → Sheets → Apps Script → Twilio → Slack lead pipeline for Quality Terps (cannabis delivery, Fresno CA).
+**Active build:** Google Form → Sheets → Apps Script → Twilio SMS + Gmail draft → Firestore lead intake pipeline for BrakeJamesATL (mobile brake repair, Metro Atlanta) — the live proof-of-concept LocalPro Labs sells as its case study.
 
-**Stack (only evaluate tools against this):** Apps Script V8, Firebase/Firestore, Node.js 20, Twilio, Square, Google Workspace, Slack webhooks.
+**Stack (only evaluate tools against this):** Apps Script V8, Firebase/Firestore, Node.js 20, Twilio, Square, Google Workspace, Slack webhooks, Gemini API.
 
 **90-day mission:** Land 2–3 paying LocalPro Labs clients at $500–$2k/deployment.
 
@@ -74,7 +74,7 @@ Score each item 1–10 on **mission drift** — how far it is from closing a pay
 
 **Auto-assign drift 1–3 if ANY of these are true:**
 - Directly improves Apps Script, Twilio, Slack, or Google Workspace workflows
-- Reduces time on the Quality Terps pipeline or a similar client deliverable
+- Reduces time on the BrakeJamesATL pipeline or a similar LocalPro Labs client deliverable
 - Has a free tier or fits within $150/month budget and ships in a weekend
 - Helps with outreach, proposal generation, or client conversion for LocalPro Labs
 
@@ -113,7 +113,7 @@ For a single item, run the three-question why-layer before issuing a verdict.
 Is the interest coming from FOMO / anxiety about falling behind, or is there a specific deliverable this unblocks? Fear-based = high drift. Mission-aligned = must pass Q2.
 
 **Q2 — Client or result attached?**
-Can you name a specific client, proposal, or pipeline stage this improves? If the answer is "maybe someday" or "for a future client" — it's drift. Must name Quality Terps, BrakeJamesATL, or a named prospect.
+Can you name a specific client, proposal, or pipeline stage this improves? If the answer is "maybe someday" or "for a future client" — it's drift. Must name BrakeJamesATL, a named LocalPro Labs prospect, or a specific deliverable.
 
 **Q3 — Wait for hype to settle?**
 Is this in the first 2 weeks of launch? Is the pricing/API unstable? Is there a free tier or tutorial ecosystem yet? If the tool is brand new with no Apps Script integration story, default to Watch Later — let the community build the glue first.
@@ -150,15 +150,15 @@ if James spends time here. References what he should be doing instead if verdict
 ```
 ⚠️ AVOIDANCE CHECK
 
-You've asked [N] research questions this session with no mention of Quality Terps,
-BrakeJamesATL, or a named prospect. This is a known pattern.
+You've asked [N] research questions this session with no mention of BrakeJamesATL
+or a named prospect. This is a known pattern.
 
 **The hard question:** What task are you avoiding right now?
 
 Common answers:
 - Cold outreach to a new LocalPro Labs prospect
 - Following up on a stalled proposal
-- Finishing a deliverable for Quality Terps
+- Finishing a deliverable for a live client
 - Making a sales call
 
 **Redirect:** Close this tab. Open your CRM or inbox. Do the one thing
