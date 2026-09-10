@@ -13,7 +13,7 @@
 ## Who James Is
 - Solo founder, Metro Atlanta
 - Day job: 7am–5pm M–F (unavailable during these hours)
-- Hard Shabbat cutoff: Friday sunset — no work after that
+- **Shabbat: Monday sunrise → Monday sunset (Enochian calendar), hard wall.** No work, no nudges, no scheduling into it.
 - Available: ~8 hrs/week, ~$150/month for new tools
 - Email: brakejamesatl@gmail.com
 
