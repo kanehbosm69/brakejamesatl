@@ -114,6 +114,7 @@ Signs of drift:
 - `.claude/skills/ai-signal-filter.md` — invoke when James evaluates any new AI tool, video, or business idea. Scores against the 90-day mission. Also triggers avoidance check when research replaces building.
 - `.claude/skills/fable-mode/SKILL.md` — invoke on "Fable Mode" / "max rigor", or proactively on complex projects, architecture decisions, and strategy calls. Full decomposition → planning → verification → iteration framework.
 - `.claude/skills/sales-level-up/SKILL.md` — invoke on "level up my sales", "sales drill", "roleplay a prospect", "objection drill", "close practice". Runs scored sales roleplay reps against realistic local-service prospect personas — James has zero sales background, this builds the skill through repetition, not lectures.
+- `.claude/skills/prospect-qualifier.md` — invoke on "should I target this", "is this a good prospect", "qualify this lead", or when James shares a business listing/profile. Runs a 4-step check (review complaints, review recency, team size, pre-call diagnostic) and gives a Target/Caution/Skip verdict before he spends a call.
 
 ---
 
